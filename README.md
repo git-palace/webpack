@@ -32,8 +32,8 @@ Any time you want to sync your project with the defaults, update this dependency
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/sapegin">
-          <img width="150" height="150" src="https://avatars.githubusercontent.com/u/70067?v=3">
+        <a href="https://github.com/git-palace">
+          <img width="150" height="150" src="https://avatars0.githubusercontent.com/u/25261362?s=460&v=4">
           </br>
           Artem Sapegin
         </a>
